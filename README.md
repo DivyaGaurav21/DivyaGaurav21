@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next js , TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://divya-gaurav.netlify.app/](https://divyagaurav.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://divya-gaurav.netlify.app/](https://divya-gaurav.netlify.app/)
 
 - 💬 Ask me about **react , js , node ,java, express , dsa ,  mongodb , mysql**
 
