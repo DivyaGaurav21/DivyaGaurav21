@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0C447C&height=120&section=header&text=Divya%20Gaurav&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Web%20Developer&descAlignY=60&descColor=aad4f5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0C447C&height=120&section=header&text=Divya%20Gaurav&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Web%20Developer&descAlignY=60&descColor=aad4f5" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-divya--gaurav.netlify.app-0C447C?style=flat-square&logo=netlify&logoColor=white)](https://divya-gaurav.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Email-divyagaurav.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:divyagaurav.dev@gmail.com)
